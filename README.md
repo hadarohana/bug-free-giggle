@@ -6,11 +6,10 @@
        * GitHub username 1: cpierce17
        * GitHub username 2: alexusng
        * GitHub username 3: hpatrick5
-       * GitHub username 4:
-       * GitHub username 5:
-   * When did you complete this exercise? 
+       * GitHub username 4: hadarohana
+   * When did you complete this exercise? 2/22 at 5:30 PM
    * How long did it take your team to complete this exercise? 
-
+     This excercise took us 5 minutes. 
 ## Table of Contents
 
 1. TODO.md - contains instructions for what to do for this assignment

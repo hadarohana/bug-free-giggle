@@ -21,8 +21,9 @@ and missed deadlines.
 * Make it a priority to finish tasks early and not get behind
 
 ## How will will communicate difficulties with a task assigned to us
-
-
+* Let other group members know as soon as you are having trouble.
+* Respond to group members fast when they are helping you.
+* Don't wait until the last second to say you are having difficulties.
 
 ## How we will back up each other to ensure that deadlines are not missed
 

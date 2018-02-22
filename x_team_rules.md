@@ -9,8 +9,11 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
-
+* In-person
+  * Make a list of tasks and assign to team members based on preference and strengths. 
+  * Reassign tasks after discussion and if team member feels they would be more productive on another task.
+* Online
+  * Use Facebook group messaging to quickly contact group members and assign tasks and discuss reassignments as needed.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 

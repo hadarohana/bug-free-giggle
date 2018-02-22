@@ -16,9 +16,9 @@ and missed deadlines.
   * Use Facebook group messaging to quickly contact group members and assign tasks and discuss reassignments as needed.
 
 ## How will we will track progress (and follow-up) on completion of tasks
-*We will check in on our Facebook group and create a google document with tasks and completion
-*Peer review each other's work to make sure that nothing is missed
-*Make it a priority to finish tasks early and not get behind
+* We will check in on our Facebook group and create a google document with tasks and completion
+* Peer review each other's work to make sure that nothing is missed
+* Make it a priority to finish tasks early and not get behind
 
 ## How will will communicate difficulties with a task assigned to us
 

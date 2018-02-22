@@ -27,7 +27,9 @@ and missed deadlines.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+* Be up to date with the google doc
+* Milestones set significantly before deadlines 
+* Let teammates know when you're having trouble 
 
 
 

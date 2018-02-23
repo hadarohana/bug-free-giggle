@@ -14,7 +14,7 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * classes
   * Upper camel case
   
- * `public class ClassName {}`
+  * `public class ClassName {}`
 * exception types
   * Named like classes
   * Define as necessary
@@ -33,7 +33,7 @@ We follow standard Java naming conventions that we were taught at UW Madison.
   * Lower camel case
   * As descriptive as possible
   
-  `public void myMethod(int num){}`
+   * `public void myMethod(int num){}`
 * local variables
   * Lower camel case
   * As descriptive as possible

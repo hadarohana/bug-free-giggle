@@ -1,6 +1,6 @@
 # X-Team 66 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We want to follow and base our style guide on the Google Java Style Guide to keep our code consistent, clear, and easy to read.
 
 ## Naming conventions
 

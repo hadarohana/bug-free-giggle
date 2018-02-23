@@ -66,7 +66,9 @@ We follow standard Java naming conventions that we were taught at UW Madison.
   ```
 * fields
   * Inline comments for all public and private fields
-  * // Describes what field is
+  ```
+  // Describes what field is
+  ```
 * constructors
   * JavaDoc header
   ```

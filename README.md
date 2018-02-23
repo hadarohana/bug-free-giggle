@@ -9,7 +9,7 @@
        * GitHub username 4: hadarohana
    * When did you complete this exercise? 2/22 at 5:30 PM
    * How long did it take your team to complete this exercise? 
-     This excercise took us 5 minutes. 
+     This excercise took us 1:30 hours. 
 ## Table of Contents
 
 1. TODO.md - contains instructions for what to do for this assignment

@@ -24,11 +24,14 @@ and missed deadlines.
 * Let other group members know as soon as you are having trouble.
 * Respond to group members fast when they are helping you.
 * Don't wait until the last second to say you are having difficulties.
+* Use a google drive sheet to mark off responsibilities as they are completed.
 
 ## How we will back up each other to ensure that deadlines are not missed
 * Be up to date with the Google Doc.
 * Milestones set significantly before deadlines. 
 * Let teammates know when you're having trouble. 
+* Agree on times to meet to discuss our progress and any difficulties experienced.
+* Be understanding of eachother if there is a problem accomplishing milestones, but make sure to notify all group members promptly.
 
 
 

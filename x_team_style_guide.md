@@ -13,6 +13,8 @@ We follow standard Java naming conventions that we were taught at UW Madison.
    `public interface InterfaceName(){}`
 * classes
   * Upper camel case
+  
+  `public class ClassName {}`
 * exception types
   * Named like classes
   * Define as necessary

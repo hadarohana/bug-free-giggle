@@ -10,7 +10,7 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * interfaces
   * Named like classes
   
-   `public interface InterfaceName(){}`
+   `public interface InterfaceName{}`
 * classes
   * Upper camel case
   
@@ -18,8 +18,12 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * exception types
   * Named like classes
   * Define as necessary
+  
+  `class NewException extends RunTimeException{}`
 * fields
   * Lower camel case
+  
+  `public int newInt = 5;`
 * methods
   * Lower camel case
 * parameters

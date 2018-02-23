@@ -9,7 +9,11 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 ### Examples
 * interfaces
   * Named like classes
-    'public interface'
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
 * classes
   * Upper camel case
 * exception types

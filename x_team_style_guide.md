@@ -59,6 +59,8 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * classes
   * Descriptive JavaDoc header
   * All block tags should be filled
+  * `/**
+      * bgnha`
 * fields
   * Inline comments for all public and private fields
 * constructors

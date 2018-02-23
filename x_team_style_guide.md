@@ -94,6 +94,31 @@ We will follow the commenting style that is shown in the Google Java Style Guide
    }
   ```    
   * switch statement
+  ```
+  switch (month) {
+            case 1:  monthString = "January";
+                     break;
+            case 2:  monthString = "February";
+                     break;
+            case 3:  monthString = "March";
+                     break;
+        }
+  ```
   * while loops
+  ```
+  while (expression) {
+     statement;
+  }
+  ```
   * for loops
+  ```
+  for (int x = 2; x <= 4; x++) {
+      System.out.println("Value of x:" + x);
+  }
+  ```
   * enhanced for loops
+  ```
+  for (String element : array) {
+      System.out.println("Element: " + element);
+  }
+  ```

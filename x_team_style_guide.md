@@ -59,11 +59,11 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * classes
   * Descriptive JavaDoc header
   * All block tags should be filled
-  * ``
+  ```
   /**
     * Describes what the method does
     */
-    ``
+  ```
 * fields
   * Inline comments for all public and private fields
   * // Describes what field is

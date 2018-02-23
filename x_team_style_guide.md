@@ -102,6 +102,8 @@ We will follow the commenting style that is shown in the Google Java Style Guide
                      break;
             case 3:  monthString = "March";
                      break;
+            default: monthString = "Invalid month";
+                     break;
         }
   ```
   * while loops

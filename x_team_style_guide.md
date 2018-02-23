@@ -10,26 +10,26 @@
 * interfaces
   * Named like classes
 * classes
- * Upper camel case
+  * Upper camel case
 * exception types
- * Named like classes
- * Define as necessary
+  * Named like classes
+  * Define as necessary
 * fields
- * Lower camel case
+  * Lower camel case
 * methods
- * Lower camel case
+  * Lower camel case
 * parameters
- * Lower camel case
- * As descriptive as possible
+  * Lower camel case
+  * As descriptive as possible
 * local variables
- * Lower camel case
- * As descriptive as possible
+  * Lower camel case
+  * As descriptive as possible
 * instance constants
- * All capitals with underscores
- * final
+  * All capitals with underscores
+  * final
 * class constants
- * All capitals with underscores
- * static and final
+  * All capitals with underscores
+  * static and final
 ## Commenting style for public and private members of a class or interface:
 
 <brief statement of your team's commenting style>

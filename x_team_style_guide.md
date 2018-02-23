@@ -59,17 +59,30 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 * classes
   * Descriptive JavaDoc header
   * All block tags should be filled
-  * `/**
-      * bgnha`
+  * /**
+    * Describes what the method does
+    */
 * fields
   * Inline comments for all public and private fields
+  * // Describes what field is
 * constructors
   * JavaDoc header
+  * /**
+    * Describes what constructor does
+    */
 * methods
   * JavaDoc header, describes the behavior of the method
   * Block tags
+  * /**
+    * Describes functionality of method
+    * Describes parameters
+    * Describes what method returns
+    */
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+   * `if (x = 0) {
+       int y = x + 2;
+      }`
   * switch statement
   * while loops
   * for loops

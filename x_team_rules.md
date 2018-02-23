@@ -1,4 +1,4 @@
-# X-Team 66 Rules
+# X-Team 002_66 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 

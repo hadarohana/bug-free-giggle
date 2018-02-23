@@ -61,7 +61,7 @@ We follow standard Java naming conventions that we were taught at UW Madison.
   * All block tags should be filled
   ```
   /**
-    * Describes what the method does
+    * Describes what the class does
     */
   ```
 * fields
@@ -69,22 +69,28 @@ We follow standard Java naming conventions that we were taught at UW Madison.
   * // Describes what field is
 * constructors
   * JavaDoc header
-  * /**
+  ```
+  /**
     * Describes what constructor does
     */
+    ```
 * methods
   * JavaDoc header, describes the behavior of the method
   * Block tags
-  * /**
+  ```
+  /**
     * Describes functionality of method
     * Describes parameters
     * Describes what method returns
     */
+    ```
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
-   * `if (x = 0) {
+  ```
+   if (x = 0) {
        int y = x + 2;
-      }`
+   }
+  ```    
   * switch statement
   * while loops
   * for loops

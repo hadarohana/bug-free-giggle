@@ -8,7 +8,7 @@
 
 ### Examples
 * interfaces
- * Named like classes
+  * Named like classes
 * classes
  * Upper camel case
 * exception types

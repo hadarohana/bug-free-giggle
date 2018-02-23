@@ -8,13 +8,13 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 
 ### Examples
 * interfaces
-  * Upper camel case
+  * Named like classes
   
-  `public interface interfaceName(){}`
+   `public interface InterfaceName(){}`
 * classes
   * Upper camel case
 * exception types
-  * Upper camel case
+  * Named like classes
   * Define as necessary
 * fields
   * Lower camel case

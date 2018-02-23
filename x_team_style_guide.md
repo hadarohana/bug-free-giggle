@@ -9,7 +9,6 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 ### Examples
 * interfaces
   * Named like classes
-    'public interface'
 * classes
   * Upper camel case
 * exception types

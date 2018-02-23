@@ -57,9 +57,15 @@ We follow standard Java naming conventions that we were taught at UW Madison.
 ### Examples
 
 * classes
+  * Descriptive JavaDoc header
+  * All block tags should be filled
 * fields
+  * Inline comments for all public and private fields
 * constructors
+  * JavaDoc header
 * methods
+  * JavaDoc header, describes the behavior of the method
+  * Block tags
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement

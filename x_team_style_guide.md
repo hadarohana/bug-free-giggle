@@ -4,7 +4,7 @@
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+We follow standard Java naming conventions that we were taught at UW Madison.
 
 ### Examples
 * interfaces

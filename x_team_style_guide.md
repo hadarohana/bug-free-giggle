@@ -52,7 +52,7 @@ We follow standard Java naming conventions that we were taught at UW Madison.
   * `static final double PI = 3.14`
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
+We will follow the commenting style that is shown in the Google Java Style Guide.
 
 ### Examples
 
